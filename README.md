@@ -1,5 +1,11 @@
 # Youtube_download
- test for music and video downloads from youtube.
+ Test for music and video downloads from youtube.
+
+Required libraries:
+mhyt 3.5.5
+PyQt5 5.15.7
+pyinstaller 5.4.1
+
 
 In the terminal convert the ui file to py with the command in the directory of the file location:
 
